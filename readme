@@ -6,8 +6,7 @@ Waveform Audio File Format (WAVE, or WAV due to its filename extension;
 
 Simple SoundManager
 
-* Wav support
-* Ogg support
+* Wav and Ogg support
 * Loop music
 * Volume
 * 3D Support
@@ -16,6 +15,6 @@ Simple SoundManager
 * Resume
 * Pause all
 * check if music is playing
-* Sound orientation, velocity, Orientation.
+* Sound orientation and velocity
 
 
