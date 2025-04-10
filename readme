@@ -1,0 +1,21 @@
+OpenAL is an environmental 3D audio library, which can add realism to a game by simulating attenuation,
+the Doppler effect (change in frequency as a result of motion), and material densities.
+
+Ogg is a multimedia container format that's commonly used for storing and playing audio and video files.
+Waveform Audio File Format (WAVE, or WAV due to its filename extension; 
+
+Simple SoundManager
+
+* Wav support
+* Ogg support
+* Loop music
+* Volume
+* 3D Support
+* Stop
+* Pause
+* Resume
+* Pause all
+* check if music is playing
+* Sound orientation, velocity, Orientation.
+
+
